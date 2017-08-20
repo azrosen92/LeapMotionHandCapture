@@ -1,0 +1,6 @@
+framework module Pods_LeapMotionKeystrokeCapture {
+  umbrella header "Pods-LeapMotionKeystrokeCapture-umbrella.h"
+
+  export *
+  module * { export * }
+}
